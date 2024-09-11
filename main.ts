@@ -1,4 +1,4 @@
-// switch statements
+// switch statements examples
 
 
 let fruits1=0
