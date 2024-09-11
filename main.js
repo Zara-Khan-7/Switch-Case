@@ -1,5 +1,5 @@
 "use strict";
-// switch statements
+// switch statements examples
 let fruits1 = 0;
 switch (fruits1) {
     case 0:
